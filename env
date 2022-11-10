@@ -1,0 +1,11 @@
+NODE_ENV=development
+PORT=3001
+
+# DATABASE URL
+DB_URL=mongodb+srv://ivoverseas:rHvUg9lBL6LMF98T@cluster0.w1lyenb.mongodb.net/?retryWrites=true&w=majority
+
+#Nodemailer
+HOST = smtp.gmail.com
+NODEMAILERPORT = 587
+EMAIL_ID = 
+EMAIL_PASSWORD = 
